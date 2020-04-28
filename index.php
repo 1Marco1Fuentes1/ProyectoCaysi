@@ -8,7 +8,11 @@
 </head>
 
 <body>
-    <table></table>
+    <table>
+        <tr>
+            <td>HOLA</td>
+        </tr>
+    </table>
 </body>
 
 </html>
