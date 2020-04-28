@@ -10,8 +10,8 @@
 <body>
     <table>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Nombre</td>
+            <td>Apellido</td>
         </tr>
     </table>
 </body>
