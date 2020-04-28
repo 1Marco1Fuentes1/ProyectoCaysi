@@ -16,10 +16,6 @@
             <td>CI</td>
             <td>td</td>
             <td>td2</td>
-            <td>td3</td>
-
-
-
         </tr>
     </table>
 </body>
