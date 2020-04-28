@@ -10,7 +10,8 @@
 <body>
     <table>
         <tr>
-            <td>HOLA</td>
+            <td></td>
+            <td></td>
         </tr>
     </table>
 </body>
