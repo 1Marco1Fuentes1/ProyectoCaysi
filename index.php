@@ -12,6 +12,7 @@
         <tr>
             <td>Nombre</td>
             <td>Apellido</td>
+            <td>Direccion</td>
         </tr>
     </table>
 </body>
