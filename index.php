@@ -15,10 +15,11 @@
             <td>Direccion</td>
             <td>CI</td>
             <td>td</tD>
-        <td>td2</tD>
-        
-        
-      
+            <td>td2</tD>
+            <td>td3</td>
+
+
+
         </tr>
     </table>
 </body>
