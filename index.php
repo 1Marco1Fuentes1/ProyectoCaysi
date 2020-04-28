@@ -13,6 +13,7 @@
             <td>Nombre</td>
             <td>Apellido</td>
             <td>Direccion</td>
+            <td>CI</td>
         </tr>
     </table>
 </body>
