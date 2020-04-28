@@ -14,8 +14,8 @@
             <td>Apellido</td>
             <td>Direccion</td>
             <td>CI</td>
-            <td>td</tD>
-            <td>td2</tD>
+            <td>td</td>
+            <td>td2</td>
             <td>td3</td>
 
 
